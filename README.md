@@ -43,5 +43,8 @@ Use git status again the files should now show in GREEN, meaning they are ready 
 
 (19:18) Committing
 git commit -m "[need a message]" -m "[can add description]"
-after git commit, the files are only saved locally, they are not on GitHub yet!
+after git commit, the files are ONLY saved LOCALLY, they are not on GitHub yet!
 git push to save in GitHub
+
+
+what to do???
