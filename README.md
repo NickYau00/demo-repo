@@ -36,6 +36,7 @@ git clone [https from Github]
 
 git status - shows files that were updated/created/delete, but haven't been saved in a commit yet (shows in RED).
 'Untracked files' - Git doesn't know about the files yet. To track files, use 'add' command.
+(Sometimes you need to Save file first before git status shows modified/untracked files)
 
 git add [specify a filename or use '.']
 Usually just use git add . to track all changes, including the untracked and modified section.
@@ -46,5 +47,3 @@ git commit -m "[need a message]" -m "[can add description]"
 after git commit, the files are ONLY saved LOCALLY, they are not on GitHub yet!
 git push to save in GitHub
 
-
-what to do???
