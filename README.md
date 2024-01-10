@@ -5,6 +5,7 @@ Some description!
 ## Subheader
 
 Watch tutorial on YouTube.
+Video name and author: Git and GitHub for Beginners - Crash Course by freeCodeCamp.org
 
 ## Notes from the video
 
