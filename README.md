@@ -5,24 +5,35 @@ Some description!
 ## Subheader
 
 Watch tutorial on YouTube.
+
 Video name and author: Git and GitHub for Beginners - Crash Course by freeCodeCamp.org
 
 ## Notes from the video
 
 Git is a Version control system (free and open source).
+
 CLI - Command Line Interface
+
 Code Editor - Word Processor for Writing Code
+
 Repository - A place where your projects are stored
+
 Github - A website to host your repositories online
 
 Git Commands
-clone - Bring a repository that is hosted somewhere like Github into a folder on your local machine
-add - Track your files and changes in Git
-commit - Save your files in Git
-push - Upload Git commits to a remote repo (eg Github)
-pull - Download changes from remote repo to your local machine
+
+`clone` - Bring a repository that is hosted somewhere like Github into a folder on your local machine
+
+`add` - Track your files and changes in Git
+
+`commit` - Save your files in Git
+
+`push` - Upload Git commits to a remote repo (eg Github)
+
+`pull` - Download changes from remote repo to your local machine
 
 (8:50) Create a readme file on Github
+
 README.md - md stands for markdown, an easy way to format your text
 '#' for header
 '##' for subheader
